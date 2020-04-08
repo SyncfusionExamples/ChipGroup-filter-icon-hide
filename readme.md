@@ -2,7 +2,7 @@
 
 This example demonstrates how to hide the check icon while selecting the chip in Filter ChipGroup
 
-[How do I remove the indicator icon from the Xamarin.Forms Chip](https://www.syncfusion.com/kb/11270/how-do-i-remove-the-indicator-icon-from-the-xamarin-forms-chip)
+[How to remove the indicator icon from Xamarin.Forms (SfChipGroup)](https://www.syncfusion.com/kb/11270/?utm_medium=listing&utm_source=github-examples)
 
 To hide the selected chip selection indicator icon was achieved by adding the SfChip as the [ItemTemplate](https://help.syncfusion.com/cr/xamarin/Syncfusion.Buttons.XForms~Syncfusion.XForms.Buttons.SfChipGroup~ItemTemplate.html) of a ChipGroup. The default value of the SfChip&#39;s [ShowSelectionIndicator](https://help.syncfusion.com/xamarin/chips/customization#showselectionindicator) property is false. Since, the selection indicator icon will be hidden by default while using the SfChip as an ItemTemplate.
 
