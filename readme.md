@@ -27,7 +27,7 @@ In addition, we have to set the Transparent color to the BackgroundColor and Bor
 				>
                 <buttons:SfChipGroup.ItemTemplate>
                     <DataTemplate>
-                        <buttons:SfChip  Text="{Binding Name}"
+                        <buttons:SfChip  Text="{Binding Name}" InputTransparent="True"
                                          BorderColor="Transparent" 
                                          BorderWidth="0"
                                          TextColor="{Binding Source={x:Reference chipGroup},Path=ChipTextColor}"
