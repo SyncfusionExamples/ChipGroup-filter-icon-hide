@@ -151,7 +151,7 @@
     <PackageReference Include="Syncfusion.Xamarin.Buttons">
       <Version>*</Version>
     </PackageReference>
-    <PackageReference Include="Xamarin.Forms" Version="3.6.0.344457" />
+    <PackageReference Include="Xamarin.Forms" Version="*" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\ChipGroup-GettingStarted\ChipGroup-GettingStarted.csproj">
